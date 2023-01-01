@@ -1,0 +1,29 @@
+{
+  "name": "indexnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongstb/node_js.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "phanphongspvp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phongstb/node_js/issues"
+  },
+  "homepage": "https://github.com/phongstb/node_js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
